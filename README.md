@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Garg</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Backend Developer from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashGarg14](https://github.com/YashGarg14)
 

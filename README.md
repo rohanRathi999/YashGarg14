@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashGarg14](https://github.com/YashGarg14)
 
-- 📫 How to reach me **yash.raj.garg2003@gmail.com**
+- 📫 Reach me on **yash.raj.garg2003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me : </h3>
 <p align="left">
 <a href="https://twitter.com/yashgarg004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashgarg004" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-garg-638aa9239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-garg-638aa9239" height="30" width="40" /></a>
